@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on FPT Smart Cloud
+- - 🌱 I’m currently learning Networking, Cloud, Linux, Containerize, DevOps, Python, Golang.
+- 📫 How to reach me: Linkedln page below.
 <!--
 **dungad2k2/dungad2k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
