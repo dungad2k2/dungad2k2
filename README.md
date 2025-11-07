@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Networking, Cloud, Linux, Containerize, DevOps, Python, Golang.
+- 🌱 I’m currently learning Networking, Cloud, Linux, Containerize, DevOps, Python, Golang, AI/ML.
 - 📫 How to reach me: Linkedin page below.
 <!--
 **dungad2k2/dungad2k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
