@@ -1,5 +1,4 @@
 ## Hi there 👋
-- 🔭 I’m currently working on FPT Smart Cloud
 - 🌱 I’m currently learning Networking, Cloud, Linux, Containerize, DevOps, Python, Golang.
 - 📫 How to reach me: Linkedin page below.
 <!--
